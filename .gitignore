@@ -4,8 +4,8 @@
 *.pyc
 __pycache__/
 ~$
-./BasicLab1/example/
-./BasicLab2/example/
+BasicLab1/example/
+BasicLab2/example/
 venv/
 *.pptx
 
