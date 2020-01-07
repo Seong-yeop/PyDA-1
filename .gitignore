@@ -8,4 +8,7 @@ BasicLab1/example/
 BasicLab2/example/
 venv/
 *.pptx
-
+main.py
+input1.txt
+output1.txt
+answer1.txt
