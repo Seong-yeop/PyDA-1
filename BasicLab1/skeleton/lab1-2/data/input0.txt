@@ -1,0 +1,50 @@
+Seoul, Pyeongyang
+Pyeongyang, Seoul
+a, Seoul
+Paris, so far
+Sydney, Ankara
+Nairobi, Seoul
+Bordeaux, Sydney
+Rangoon, Bucharest
+Bogotá, Kinshasa
+St. Petersburg, Budapest
+Cairo, Kingston
+Caracas, Madrid
+Melbourne, Mexico City
+Stockholm, Nagasaki
+Venice, Chongqing
+Kinshasa, Caracas
+Mexico City, Lisbon
+Budapest, Frankfurt
+Manila, Nairobi
+Rome, New Delhi
+Vienna, Plymouth
+Darwin, Frankfurt
+Wellington, Darwin
+Nagoya, Bristol
+Georgetown, Dakar
+Stockholm, Lima
+Santiago, Belém
+Moscow, Prague
+Stockholm, Teheran
+Seoul, Georgetown
+Leeds, Barcelona
+Tokyo, Durban
+Milan, Bombay
+Bogotá, Algiers
+Lisbon, Salvador
+Amsterdam, Djibouti
+Tripoli, La Paz
+Auckland, Nairobi
+Pyeongyang, Rio de Janeiro
+Rome, Perth
+Munich, Nanjing (Nanking)
+Rangoon, Melbourne
+Budapest, Athens
+Auckland, Calcutta
+Oslo, São Paulo
+Tripoli, Mexico City
+Caracas, Cape Town
+Stockholm, Mazatlán
+Tananarive, Wellington
+EXITprogram
