@@ -1,0 +1,2 @@
+output 0 all
+output 1 all

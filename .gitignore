@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.vscode/
+*.pyc
+__pycache__/
+~$
+./BasicLab1/example/
+./BasicLab2/example/
+venv/
+*.pptx
+
