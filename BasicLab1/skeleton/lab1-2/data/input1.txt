@@ -1,0 +1,50 @@
+Newcastle-on-Tyne, Tripoli
+Marseilles, Veracruz
+Rangoon, Panama City
+Bogotá, Budapest
+Port Moresby, St. Petersburg
+Tripoli, Buenos Aire
+Belfast, Kinshasa
+Osaka, Algiers
+Paris, Brisbane
+Tokyo, Madrid
+Munich, Stockholm
+Nanjing (Nanking), Barcelona
+Rome, Mazatlán
+Córdoba, Madrid
+Auckland, Mexico City
+Wellington, Bristol
+Rangoon, Liverpool
+Caaro, Paramaribo
+La Paz, Liverpool
+Bremen, Melbourne
+Dakar, Frankfurt
+Rio de Janeiro, Darwin
+Ankara, Rangoon
+Prague, Moscow
+Cairo, New Delhi
+Asunción, Panama City
+Munich, Ikutsk
+Zürich, Singapore
+Helsinki, Dublin
+Naning (Nanking), Irkutsk
+Georgetown, Pyeongyang
+Guayaquil, Paris
+Panama City, Johannesburg
+Belém, Iquique
+Amsterdam, Belém
+Tripoli, London
+Belfast, Nairobi
+Guatemala City, Asunción
+Bremen, Chihuahua
+Buenos Aires, Auckland
+Copenhagen, Caracas
+La Paz, Liverpool
+Bremen, Melbourne
+Dakar, Frankfrt
+Rio de Janeiro, Darwin
+Ankara, Rangoon
+Prague, Moscow
+Cairo, New Delhi
+La Paz, Liverpool
+EXITprogram
