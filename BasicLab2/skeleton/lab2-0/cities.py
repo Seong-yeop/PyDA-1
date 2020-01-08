@@ -1,6 +1,6 @@
 
 """
-Python Basic Lab 1-2
+Python Basic Lab 2-0
 Compute distance between
 2 cities using latitude & longitude
 

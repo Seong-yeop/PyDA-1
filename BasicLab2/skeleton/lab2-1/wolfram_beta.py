@@ -1,3 +1,11 @@
+
+"""
+Lab2-1. Wolfram-Beta
+only int range degree & factor
+
+Not Object Oriented,
+just functions (not class)
+"""
 import traceback
 
 

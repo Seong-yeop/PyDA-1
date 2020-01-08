@@ -1,6 +1,6 @@
 
 """
-Lab2-1. Wolfram-Beta OO
+Lab2-2. Wolfram-Beta OO
 support cos, sin, exp
 float type degree & factor
 
