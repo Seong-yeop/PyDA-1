@@ -8,10 +8,8 @@ BasicLab1/example/
 BasicLab2/example/
 venv/
 *.pptx
-#main.py
-#input[1-].txt
-#output[1-].txt
-#answer[1-].txt
-#record.txt
-#wrong.txt
-BasicLab2/
+main.py
+terms_checker.py
+sample_complete.py
+BasicLab2/skeleton/lab2-1/text/
+BasicLab2/skeleton/lab2-2/text/
