@@ -10,6 +10,7 @@ venv/
 *.pptx
 main.py
 terms_checker.py
-sample_complete.py
 BasicLab2/skeleton/lab2-1/text/
 BasicLab2/skeleton/lab2-2/text/
+run.php
+score.txt
