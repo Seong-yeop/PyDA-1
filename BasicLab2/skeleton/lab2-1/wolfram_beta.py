@@ -11,8 +11,8 @@ import traceback
 
 def print_term(degree, factor):
     """
-    :param degree: int, 항의 계수
-    :param factor: int, 항의 차수
+    :param degree: int, 항의 차수
+    :param factor: int, 항의 계수
     :return: str
     """
     return '7x^2'    # when degree == 2 and factor == 7

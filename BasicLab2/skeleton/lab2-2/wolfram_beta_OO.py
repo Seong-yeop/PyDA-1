@@ -56,8 +56,8 @@ class Terms:
     @staticmethod
     def print_term(degree, factor):
         """
-        :param degree: float, 항의 계수
-        :param factor: float, 항의 차수
+        :param degree: float, 항의 차수
+        :param factor: float, 항의 계수
         :return: str
         """
         # use wolfram_beta's print_term
