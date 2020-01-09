@@ -4,8 +4,9 @@
 *.pyc
 __pycache__/
 ~$
-BasicLab1/example/
-BasicLab2/example/
+BasicLab2/example/wolfram_beta.py
+BasicLab2/example/wolfram_beta_OO.py
+BasicLab2/example/wolfram_beta_OO_basic.py
 venv/
 *.pptx
 main.py
