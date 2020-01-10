@@ -7,7 +7,7 @@ __pycache__/
 BasicLab2/example/wolfram_beta.py
 BasicLab2/example/wolfram_beta_OO.py
 BasicLab2/example/wolfram_beta_OO_basic.py
-BasicLab2/example/wolfram_beta_OO_one.py
+BasicLab2/example/wolfram_beta_OO_zero.py
 venv/
 *.pptx
 main.py
@@ -19,3 +19,6 @@ score.txt
 test.py
 log.txt
 output_sample.txt
+answer.txt
+input.txt
+output.txt
