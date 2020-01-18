@@ -4,15 +4,9 @@
 *.pyc
 __pycache__/
 ~$
-BasicLab2/example/wolfram_beta.py
-BasicLab2/example/wolfram_beta_OO.py
-BasicLab2/example/wolfram_beta_OO_basic.py
-BasicLab2/example/wolfram_beta_OO_zero.py
 venv/
 *.pptx
-main.py
-terms_checker.py
-BasicLab2/skeleton/lab2-1/text/
-BasicLab2/skeleton/lab2-2/grader/
 output_sample.txt
 DataAnalysisLab/
+BasicLab2/skeleton/lab2-1/grader/
+*.php
